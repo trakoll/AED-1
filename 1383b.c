@@ -1,4 +1,4 @@
-/* sudoku.c | AED 1 | Kauan Dias Caisley */
+/* Kauan Dias Caisley AED 1 Sudoku com alocação dinamica*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -77,4 +77,5 @@ int main (){
 
     free (sudokus); // liberando memoria
     return 0;
+
 }
