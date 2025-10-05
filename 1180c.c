@@ -77,7 +77,7 @@ int main (){
 
     encontrar_menor(vetor, &menor, &posicao); // encontrando o menor valor e sua posição
 
-    posicao = n - 1 - posicao; // como os valores foram inseridos no início da lista, a posição do menor valor é n - 1 - posicao
+    posicao = n - 1 - posicao; // como os valores foram inseridos no início da lista, a posição dentro do vetor seria n - 1 - posicao
 
     printf("Menor valor: %d\n", menor);
     printf("Posicao: %d\n", posicao);
@@ -86,3 +86,4 @@ int main (){
 
     return 0;
 }
+
