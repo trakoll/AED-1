@@ -1,4 +1,4 @@
-/* Kauan Dias Caisley AED 1 Altura com Selection sort*/
+/* Kauan Dias Caisley AED 1 Altura com Insertion sort*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -49,3 +49,4 @@ int main (){
     return 0;
 
 }
+
